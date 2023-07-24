@@ -1,0 +1,635 @@
+8c8
+<    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+---
+>    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+23,27c23,27
+<      inkscape:zoom="1.4142137"
+<      inkscape:cx="360.62442"
+<      inkscape:cy="31.819802"
+<      inkscape:window-width="1368"
+<      inkscape:window-height="687"
+---
+>      inkscape:zoom="16.000001"
+>      inkscape:cx="329.87498"
+>      inkscape:cy="409.40623"
+>      inkscape:window-width="1920"
+>      inkscape:window-height="1001"
+34,36c34
+<      inkscape:snap-bbox-edge-midpoints="true"
+<      inkscape:showpageshadow="2"
+<      inkscape:deskcolor="#525252">
+---
+>      inkscape:snap-bbox-edge-midpoints="true">
+187c185
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+210c208
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+286,287c284
+<      d="m 435,105 v 10 h 10 v -10 z"
+<      style="fill:#000000;opacity:0.25" />
+---
+>      d="m 435,105 v 10 h 10 v -10 z" />
+290,291c287
+<      d="m 435,115 v 10 h 10 v -10 z"
+<      style="fill:#000000;opacity:0.25" />
+---
+>      d="m 435,115 v 10 h 10 v -10 z" />
+305c301
+<      style="fill:#ffffff;opacity:0.1" />
+---
+>      opacity=".15" />
+334,335c330,331
+<      x="371.35565"
+<      y="20.923"
+---
+>      x="10"
+>      y="20"
+337,338c333
+<      height="10"
+<      style="opacity:0.1;fill:#ffffff" />
+---
+>      height="10" />
+621a617,627
+>   <g
+>      id="progress-normal-lefttyry"
+>      transform="translate(-8 -9)">
+>     <rect
+>        x="26"
+>        y="162"
+>        width="8"
+>        height="8"
+>        opacity=".001"
+>        id="rect161" />
+>   </g>
+627,628c633
+<      height="8"
+<      style="fill:#ffffff;opacity:0.1" />
+---
+>      height="8" />
+638,639c643
+<        id="rect165"
+<        style="fill:#000000" />
+---
+>        id="rect165" />
+647c651
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+654c658
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+661c665
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+668c672
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+675c679
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+682c686
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+689,690c693
+<      opacity=".25"
+<      style="fill:#000000" />
+---
+>      opacity=".25" />
+697,698c700
+<      opacity=".25"
+<      style="fill:#000000" />
+---
+>      opacity=".25" />
+705,706c707
+<      opacity=".25"
+<      style="fill:#000000" />
+---
+>      opacity=".25" />
+713,714c714
+<      opacity=".25"
+<      style="fill:#000000" />
+---
+>      opacity=".25" />
+721,722c721
+<      opacity=".25"
+<      style="fill:#000000" />
+---
+>      opacity=".25" />
+729,730c728
+<      opacity=".25"
+<      style="fill:#000000" />
+---
+>      opacity=".25" />
+737,738c735
+<      opacity=".12"
+<      style="fill:#000000" />
+---
+>      opacity=".12" />
+745,746c742
+<      opacity=".12"
+<      style="fill:#000000" />
+---
+>      opacity=".12" />
+753,754c749
+<      opacity=".12"
+<      style="fill:#000000" />
+---
+>      opacity=".12" />
+761,762c756
+<      opacity=".12"
+<      style="fill:#000000" />
+---
+>      opacity=".12" />
+769,770c763
+<      opacity=".12"
+<      style="fill:#000000" />
+---
+>      opacity=".12" />
+777,778c770
+<      opacity=".12"
+<      style="fill:#000000" />
+---
+>      opacity=".12" />
+788c780
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+799c791
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+810c802
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+821,822c813
+<        id="rect195"
+<        style="fill:#000000" />
+---
+>        id="rect195" />
+833,834c824
+<        id="rect198"
+<        style="fill:#000000" />
+---
+>        id="rect198" />
+845,846c835
+<        id="rect201"
+<        style="fill:#000000" />
+---
+>        id="rect201" />
+857,858c846
+<        id="rect204"
+<        style="fill:#000000" />
+---
+>        id="rect204" />
+869,870c857
+<        id="rect207"
+<        style="fill:#000000" />
+---
+>        id="rect207" />
+878c865
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+885c872
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+889c876
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+893c880
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+897c884
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+904c891
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+911c898
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+915c902
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+919c906
+<      style="fill:#cccccc;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#cccccc;fill-opacity:1" />
+926c913
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+933c920
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+937c924
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+944c931
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+948c935
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+952c939
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+959c946
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+963c950
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+967c954
+<      style="fill:#e0e0e0;fill-opacity:1;opacity:0.25" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+1019c1006,1007
+<      style="fill:#ffffff;opacity:0.16" />
+---
+>      fill="#fff"
+>      opacity=".16" />
+1083c1071,1072
+<      transform="matrix(.95208 0 0 1 11.535 -19.236)">
+---
+>      transform="matrix(.95208 0 0 1 11.535 -19.236)"
+>      stroke-width="1.0249">
+1087a1077
+>        stroke-width="1.0249"
+1092c1082,1083
+<      transform="matrix(.95208 0 0 1 9.6306 -19.236)">
+---
+>      transform="matrix(.95208 0 0 1 9.6306 -19.236)"
+>      stroke-width="1.0249">
+1096a1088
+>        stroke-width="1.0249"
+1101c1093,1094
+<      transform="matrix(.95208 0 0 1 10.583 -18.236)">
+---
+>      transform="matrix(.95208 0 0 1 10.583 -18.236)"
+>      stroke-width="1.0249">
+1105a1099
+>        stroke-width="1.0249"
+1110c1104,1105
+<      transform="matrix(.95208 0 0 1 10.583 -20.236)">
+---
+>      transform="matrix(.95208 0 0 1 10.583 -20.236)"
+>      stroke-width="1.0249">
+1114a1110
+>        stroke-width="1.0249"
+2683c2679
+<        style="stroke-width:1.6;fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="stroke-width:1.6;fill:#bd93f9;fill-opacity:1" />
+2689c2685
+<        style="stroke-width:1.2;fill:#2c2c2c;fill-opacity:1" />
+---
+>        style="stroke-width:1.2;fill:#282a36;fill-opacity:1" />
+2712c2708
+<        style="stroke-width:1.6;fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="stroke-width:1.6;fill:#bd93f9;fill-opacity:1" />
+2718c2714
+<        style="fill:#2c2c2c;fill-opacity:1;stroke-width:1" />
+---
+>        style="fill:#282a36;fill-opacity:1;stroke-width:1" />
+2741c2737
+<        style="stroke-width:0.727273;fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="stroke-width:0.727273;fill:#bd93f9;fill-opacity:1" />
+2747c2743
+<        style="fill:#2c2c2c;fill-opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1" />
+2762c2758
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+2766c2762
+<        style="fill:#2c2c2c;fill-opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1" />
+2785c2781
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+2792c2788
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+2799c2795
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+2806c2802
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+2844c2840
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+2855c2851
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+2874c2870
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+2889c2885
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+3268c3264
+<      style="fill:#2c2c2c;fill-opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1" />
+3411c3407
+<      style="fill:#2c2c2c;fill-opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1" />
+3642c3638
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+3654c3650
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+3670c3666
+<          style="fill:#e0e0e0" />
+---
+>          style="fill:#bd93f9" />
+3737c3733
+<        style="fill:#e0e0e0;fill-opacity:1"
+---
+>        style="fill:#bd93f9;fill-opacity:1"
+3743c3739
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3747c3743
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3751c3747
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3755c3751
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3759c3755
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3763c3759
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3767c3763
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3771c3767
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3775c3771
+<      style="fill:#e0e0e0;fill-opacity:1" />
+---
+>      style="fill:#bd93f9;fill-opacity:1" />
+3779c3775
+<      style="fill:#2c2c2c;fill-opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1" />
+3783c3779
+<      style="fill:#2c2c2c" />
+---
+>      style="fill:#282a36" />
+3791c3787
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3800c3796
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3809c3805
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3817c3813
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3826c3822
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3835c3831
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3847c3843
+<        style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1;opacity:1" />
+3868c3864
+<        style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1;opacity:1" />
+3890c3886
+<        style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1;opacity:1" />
+3906c3902
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3915c3911
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3924c3920
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3932c3928
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3941c3937
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3950c3946
+<      style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1;opacity:1" />
+3962c3958
+<        style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1;opacity:1" />
+3983c3979
+<        style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1;opacity:1" />
+4005c4001
+<        style="fill:#2c2c2c;fill-opacity:1;opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1;opacity:1" />
+4613c4609
+<        style="paint-order:markers stroke fill;fill:#e0e0e0;fill-opacity:1"
+---
+>        style="paint-order:markers stroke fill;fill:#bd93f9;fill-opacity:1"
+4624c4620
+<        style="paint-order:markers stroke fill;fill:#e0e0e0;fill-opacity:1"
+---
+>        style="paint-order:markers stroke fill;fill:#bd93f9;fill-opacity:1"
+4635c4631
+<        style="paint-order:markers stroke fill;fill:#e0e0e0;fill-opacity:1"
+---
+>        style="paint-order:markers stroke fill;fill:#bd93f9;fill-opacity:1"
+5075c5071
+<      style="fill:#e0e0e0;fill-opacity:1;paint-order:stroke fill markers" />
+---
+>      style="fill:#bd93f9;fill-opacity:1;paint-order:stroke fill markers" />
+5079c5075
+<      style="fill:#e0e0e0;fill-opacity:1;paint-order:stroke fill markers" />
+---
+>      style="fill:#bd93f9;fill-opacity:1;paint-order:stroke fill markers" />
+5579c5575
+<      style="fill:#2c2c2c;fill-opacity:1" />
+---
+>      style="fill:#282a36;fill-opacity:1" />
+5586c5582
+<        style="fill:#2c2c2c;fill-opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1" />
+5599c5595
+<        style="fill:#2c2c2c;fill-opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1" />
+5664c5660
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+5668c5664
+<        style="fill:#2c2c2c;fill-opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1" />
+5682c5678
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+5686c5682
+<        style="fill:#2c2c2c;fill-opacity:1;stroke-width:0.8" />
+---
+>        style="fill:#282a36;fill-opacity:1;stroke-width:0.8" />
+5703c5699
+<        style="fill:#e0e0e0;fill-opacity:1;stroke-width:1.6;opacity:0.35" />
+---
+>        style="fill:#bd93f9;fill-opacity:1;stroke-width:1.6;opacity:0.35" />
+5709c5705
+<        style="fill:#2c2c2c;fill-opacity:1;stroke-width:1.2" />
+---
+>        style="fill:#282a36;fill-opacity:1;stroke-width:1.2" />
+5724c5720
+<        style="fill:#e0e0e0;fill-opacity:1;opacity:0.35" />
+---
+>        style="fill:#bd93f9;fill-opacity:1;opacity:0.35" />
+5728c5724
+<        style="fill:#2c2c2c;fill-opacity:1" />
+---
+>        style="fill:#282a36;fill-opacity:1" />
+5798c5794
+<        style="fill:#e0e0e0;fill-opacity:1" />
+---
+>        style="fill:#bd93f9;fill-opacity:1" />
+5812c5808
+<      style="fill:#e0e0e0;fill-opacity:1;paint-order:stroke fill markers" />
+---
+>      style="fill:#bd93f9;fill-opacity:1;paint-order:stroke fill markers" />
+5820c5816
+<      style="fill:#e0e0e0;fill-opacity:1;paint-order:stroke fill markers" />
+---
+>      style="fill:#bd93f9;fill-opacity:1;paint-order:stroke fill markers" />
+5841c5837
+<        style="opacity:0.1;fill:#ffffff"
+---
+>        style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.035319;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+5852c5848
+<        style="opacity:0.1;fill:#ffffff"
+---
+>        style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+5863c5859
+<        style="opacity:0.1;fill:#ffffff"
+---
+>        style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.035319;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+5887c5883
+<        style="opacity:0.1;fill:#ffffff"
+---
+>        style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.0943911;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+5961c5957
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0144189;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0144189;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+5979c5975
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0203914;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0203914;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+5995c5991
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+6008c6004
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0943911;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0943911;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+6021c6017
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+6033c6029
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0249743;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+6048c6044
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0144189;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0144189;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+6068c6064
+<        style="opacity:1;fill:#e0e0e0;fill-opacity:1;stroke:none;stroke-width:0.0203914;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+---
+>        style="opacity:1;fill:#bd93f9;fill-opacity:1;stroke:none;stroke-width:0.0203914;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"
+6080c6076
+<        style="opacity:0.1;fill:#ffffff"
+---
+>        style="opacity:0.1;fill:#ffffff;stroke:none;stroke-width:0.035319;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;stop-color:#000000"

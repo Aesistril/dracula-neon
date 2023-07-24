@@ -1,0 +1,65 @@
+32,34c32,34
+< translucent_windows=false
+< blurring=false
+< popup_blurring=false
+---
+> translucent_windows=true
+> blurring=true
+> popup_blurring=true
+44c44
+< animate_states=true
+---
+> animate_states=false
+74,76d73
+< drag_from_buttons=false
+< menu_blur_radius=0
+< tooltip_blur_radius=0
+79,81c76,78
+< window.color=#2c2c2c
+< base.color=#2c2c2c
+< alt.base.color=#2e2e2e
+---
+> window.color=#282a36
+> base.color=#282a36
+> alt.base.color=#282a36
+87,88c84,85
+< highlight.color=#e0e0e0
+< inactive.highlight.color=#e0e0e0
+---
+> highlight.color=#bd93f9
+> inactive.highlight.color=#bd93f9
+124,125d120
+< style_vertical_toolbars=false
+< blur_only_active_window=true
+341,342c336,337
+< frame.left=6
+< frame.right=6
+---
+> frame.left=0
+> frame.right=0
+385,392c380,387
+< frame.top=4
+< frame.bottom=4
+< frame.left=4
+< frame.right=4
+< text.margin.top=0
+< text.margin.bottom=0
+< text.margin.left=8
+< text.margin.right=8
+---
+> frame.top=2
+> frame.bottom=2
+> frame.left=2
+> frame.right=2
+> text.margin.top=2
+> text.margin.bottom=2
+> text.margin.left=4
+> text.margin.right=4
+394,396c389,391
+< text.focus.color=#dfdfdf
+< text.press.color=#333333
+< text.toggle.color=#ffffff
+---
+> text.focus.color=white
+> text.press.color=white
+> text.toggle.color=white
