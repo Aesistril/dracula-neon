@@ -1,0 +1,14 @@
+2c2
+< Color=33,34,44
+---
+> Color=40,42,54
+91a92
+> Anchor=0.5,0.5
+94c95,96
+< Description=Dracula
+---
+> Description=Dracula Neon
+> FillStyle=Tile
+96a99,100
+> WallpaperFlipType=NoFlip
+> WallpaperOpacity=1
