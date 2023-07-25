@@ -31,6 +31,7 @@ cp ./original/dracula-konsole/Dracula.colorscheme ./build/konsole-color-scheme/D
 cp -r ./original/Graphite-kde-theme/aurorae/Graphite-dark-round/* ./build/aurorae/Graphite-dark-round-draculaneon 
 mv ./build/aurorae/Graphite-dark-round-draculaneon/Graphite-dark-roundrc ./build/aurorae/Graphite-dark-round-draculaneon/Graphite-dark-round-draculaneonrc
 cp -r ./original/kde-color-scheme ./build
+cp -r ./original/startup-scripts/ ./build/
 
 # Patch
 patch ./build/Kvantum/GraphiteDraculaNeon/GraphiteDraculaNeon.kvconfig ./patches/Kvantum/GraphiteDraculaNeon/GraphiteDraculaNeon.kvconfig.patch 
@@ -38,6 +39,8 @@ patch ./build/Kvantum/GraphiteDraculaNeon/GraphiteDraculaNeon.svg ./patches/Kvan
 patch ./build/konsole-color-scheme/DraculaNeon.colorscheme ./patches/konsole-color-scheme/DraculaNeon.colorscheme.patch
 patch ./build/aurorae/Graphite-dark-round-draculaneon/metadata.desktop ./patches/aurorae/Graphite-dark-round-draculaneon/metadata.desktop.patch
 patch ./build/aurorae/Graphite-dark-round-draculaneon/decoration.svg ./patches/aurorae/Graphite-dark-round-draculaneon/decoration.svg.patch
+
+echo "\nDONE"
 
 # Return to previous working directory before it was changed
 cd $OLD_PWD
