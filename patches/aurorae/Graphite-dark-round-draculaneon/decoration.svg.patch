@@ -1,0 +1,93 @@
+8c8
+<    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+---
+>    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+28,32c28,32
+<      inkscape:zoom="2.0000001"
+<      inkscape:cx="14.499999"
+<      inkscape:cy="115.49999"
+<      inkscape:window-width="1920"
+<      inkscape:window-height="1009"
+---
+>      inkscape:zoom="1.4142136"
+>      inkscape:cx="275.06454"
+>      inkscape:cy="101.11627"
+>      inkscape:window-width="1368"
+>      inkscape:window-height="689"
+34c34
+<      inkscape:window-y="35"
+---
+>      inkscape:window-y="0"
+48,49c48,49
+<         color:#2C2C2C;
+<         stop-color:#2C2C2C;
+---
+>         color:#282a36;
+>         stop-color:#282a36;
+60,61c60,61
+<         color:#2C2C2C;
+<         stop-color:#2C2C2C;
+---
+>         color:#282a36;
+>         stop-color:#282a36;
+76,77c76,77
+<         color:#2C2C2C;
+<         stop-color:#2C2C2C;
+---
+>         color:#282a36;
+>         stop-color:#282a36;
+410c410,411
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#e0e0e0;stop-color:#e0e0e0" />
+415c416,417
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#282a36;stop-color:#282a36" />
+436c438,439
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#e0e0e0;stop-color:#e0e0e0" />
+444c447,448
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#282a36;stop-color:#282a36" />
+465c469,470
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#282a36;stop-color:#282a36" />
+473c478,479
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#e0e0e0;stop-color:#e0e0e0" />
+494c500,501
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#282a36;stop-color:#282a36" />
+503c510,511
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#e0e0e0;stop-color:#e0e0e0" />
+512c520,521
+<      fill="currentColor" />
+---
+>      fill="currentColor"
+>      style="color:#282a36;stroke-width:0.999999;stop-color:#282a36" />
+537c546,547
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#e0e0e0;stop-color:#e0e0e0" />
+542c552,553
+<        fill="currentColor" />
+---
+>        fill="currentColor"
+>        style="color:#282a36;stop-color:#282a36" />
