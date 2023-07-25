@@ -21,6 +21,7 @@ cd ..
 # Copy original files and rename them
 cp ./original/Graphite-kde-theme/Kvantum/Graphite/GraphiteDark.kvconfig ./build/Kvantum/GraphiteDraculaNeon/GraphiteDraculaNeon.kvconfig
 cp ./original/Graphite-kde-theme/Kvantum/Graphite/GraphiteDark.svg ./build/Kvantum/GraphiteDraculaNeon/GraphiteDraculaNeon.svg
+cp -r ./original/kde-color-scheme ./build
 
 # Patch
 patch ./build/Kvantum/GraphiteDraculaNeon/GraphiteDraculaNeon.kvconfig ./patches/Kvantum/GraphiteDraculaNeon/GraphiteDraculaNeon.kvconfig.patch 
