@@ -40,7 +40,7 @@ patch ./build/konsole-color-scheme/DraculaNeon.colorscheme ./patches/konsole-col
 patch ./build/aurorae/Graphite-dark-round-draculaneon/metadata.desktop ./patches/aurorae/Graphite-dark-round-draculaneon/metadata.desktop.patch
 patch ./build/aurorae/Graphite-dark-round-draculaneon/decoration.svg ./patches/aurorae/Graphite-dark-round-draculaneon/decoration.svg.patch
 
-echo "\nDONE"
+printf "\nDONE\n"
 
 # Return to previous working directory before it was changed
 cd $OLD_PWD
